@@ -8,6 +8,7 @@
 - yeah
 - yes please
 - yes plz
+- ok
 
 ## intent:ask_transfer_charge
 - Will I be charged for transferring money
@@ -40,7 +41,7 @@
 - how much was deposited in my account in the last two weeks?
 - check deposits for last week
 - total deposits over last year
-- how much was deposited in January 
+- how much was deposited in January
 
 ## intent:deny
 - not really
@@ -159,6 +160,7 @@
 - i want to pay my [current balance](payment_amount) on my [gringots](credit_card) credit card
 - I want to pay $500 on my [gringots](credit_card) credit card on Sunday
 - I want to pay my [current balance](payment_amount) on my [gringots](credit_card) credit card today
+- i want to pay Bill
 
 ## intent:search_transactions
 - how much did I spend at [Target](vendor_name) this week?
